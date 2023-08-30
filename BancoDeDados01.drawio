@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T22:35:42.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eG9DmDOwphkej-WkCLFZ" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T22:42:12.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="B-wIutChGV9PRxeqG1Sg" version="21.7.1" type="github">
   <diagram name="Página-1" id="zKv2x6dJgtATqgKXtKyK">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,11 +130,11 @@
         <mxCell id="TEELGiDpSiU1nXDWzbDm-40" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;2&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry y="1240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEELGiDpSiU1nXDWzbDm-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;*ENTIDADES*&lt;br&gt;-Bebê&lt;br&gt;-Mãe&lt;br&gt;-Médico&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="411" y="1320" width="144" height="130" as="geometry" />
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;*ENTIDADES*&lt;br&gt;-Bebê&lt;br&gt;-Mãe&lt;br&gt;-Médico&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="411" y="1730" width="144" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="TEELGiDpSiU1nXDWzbDm-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;*RELACIONAMENTOS*&lt;br&gt;-bebe_mae&lt;br&gt;-bebe_medico&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="1320" width="239" height="130" as="geometry" />
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;*RELACIONAMENTOS*&lt;br&gt;-bebe_mae&lt;br&gt;-bebe_medico&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1730" width="239" height="130" as="geometry" />
         </mxCell>
         <mxCell id="TEELGiDpSiU1nXDWzbDm-45" value="BEBÊ" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="1500" width="80" height="80" as="geometry" />
@@ -175,10 +175,10 @@
         <mxCell id="TEELGiDpSiU1nXDWzbDm-59" value="bebe_mae" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="264" y="1500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TEELGiDpSiU1nXDWzbDm-61" value="Nome&lt;br&gt;Endereço&lt;br&gt;Telefone&lt;br&gt;Data de Nascimento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-61" value="Nome&lt;br&gt;Endereço&lt;br&gt;Telefone&lt;br&gt;Data de Nascimento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="501" y="1450" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TEELGiDpSiU1nXDWzbDm-64" value="CRM&lt;br&gt;Nome&lt;br&gt;Telefone&lt;br&gt;Especialidade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-64" value="CRM&lt;br&gt;Nome&lt;br&gt;Telefone&lt;br&gt;Especialidade" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="39" y="1870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TEELGiDpSiU1nXDWzbDm-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEELGiDpSiU1nXDWzbDm-46" target="TEELGiDpSiU1nXDWzbDm-61">
@@ -193,7 +193,7 @@
             <mxPoint x="440" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEELGiDpSiU1nXDWzbDm-70" value="Nome&lt;br&gt;Data do Nascimento&lt;br&gt;Peso do Nascimento&lt;br&gt;Altura&lt;br&gt;Nome da mãe&lt;br&gt;Nome do médico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-70" value="Nome&lt;br&gt;Data do Nascimento&lt;br&gt;Peso do Nascimento&lt;br&gt;Altura&lt;br&gt;Nome da mãe&lt;br&gt;Nome do médico" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry y="1380" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TEELGiDpSiU1nXDWzbDm-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEELGiDpSiU1nXDWzbDm-45" target="TEELGiDpSiU1nXDWzbDm-70">
@@ -201,6 +201,15 @@
             <mxPoint x="390" y="1560" as="sourcePoint" />
             <mxPoint x="440" y="1510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-73" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;3&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry y="2000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-74" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;*ENTIDADES*&lt;br&gt;-Produto&lt;br&gt;-Cliente&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="411" y="2230" width="144" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-75" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;*RELACIONAMENTOS*&lt;br&gt;-cliente_produto&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="555" y="2230" width="239" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
