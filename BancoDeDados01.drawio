@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T23:44:56.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uwqwclB81yXcCuHLHMGr" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T23:45:22.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="30baGUma9KGHb8OpWxZS" version="21.7.1" type="github">
   <diagram name="Página-1" id="zKv2x6dJgtATqgKXtKyK">
     <mxGraphModel dx="819" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,7 +310,7 @@
         <mxCell id="TEELGiDpSiU1nXDWzbDm-124" value="Cliente&lt;br&gt;Data&lt;br&gt;Valor total&lt;br&gt;Produtos comprados" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="122.5" y="3205" width="149" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TEELGiDpSiU1nXDWzbDm-128" value="0, N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TEELGiDpSiU1nXDWzbDm-128" value="N, N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="2825" width="29" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TEELGiDpSiU1nXDWzbDm-129" value="Sala" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
